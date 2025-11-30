@@ -1,0 +1,24 @@
+data-science-roadmap-2025/
+│
+├── README.md
+├── requirements.txt
+│
+├── 01_math_stats/                  → Descriptive stats, probability, correlation
+├── 02_python_basics/               → Variables, loops, functions
+├── 03_core_python_ds/              → Pandas, NumPy, GroupBy
+├── 04_data_viz/                    → Matplotlib, Seaborn, Plotly
+├── 05_data_wrangling/              → Cleaning, scaling, encoding
+├── 06_eda/                         → Univariate, bivariate analysis
+├── 07_sql/                         → Pandas-as-SQL
+├── 08_ml_basics/                   → Train-test, CV, metrics
+├── 09_supervised_learning/         → LR, RF, SVM, KNN
+├── 10_unsupervised_learning/       → K-Means, PCA
+├── 11_model_evaluation/            → Accuracy, ROC, F1
+├── 12_feature_engineering/         → OneHot, binning
+├── 13_time_series/                 → Trends, ARIMA (basic)
+├── 14_deep_learning_basics/        → ANN with Keras
+├── 15_nlp_basics/                  → Tokenization, TF-IDF
+├── 16_big_data/                    → Intro to Spark (concept)
+├── 17_cloud_mlops/                 → Gradio (deployment alternative)
+├── 18_projects/                    → Churn, House Price, Sentiment
+└── 19_git_soft_skills/             → Git commands + Interview tips
